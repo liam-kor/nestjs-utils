@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-utils",
-  "version": "0.0.1",
+  "name": "nestjs-custom-utils",
+  "version": "0.0.3",
   "description": "Nest.js utils",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
